@@ -1,4 +1,4 @@
-#Colos Magus
+# Colos Magus
 
 A card game of chromatic conjuration and collection.
 
