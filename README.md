@@ -1,4 +1,5 @@
 #Colos Magus
+
 A card game of chromatic conjuration and collection.
 
 The general Colos Magus Rules & FAQ section has a list of rules and frequently asked questions pertaining to general Colos Magus gameplay. Topics range from basic "how to play" to "what does each player do on their turn". The official Colos Magus Rules are currently in alpha state and will be changing frequently.
