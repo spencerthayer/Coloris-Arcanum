@@ -37,23 +37,29 @@ There are four places where cards are played during a turn:
 
 There are several ways to accumulate mana into the mana pool.
 
-First, a player can put mana cards or action cards into the mana pool from their hand. If you put an Action card into your pool, it becomes redundant as an Action card for the rest of the game. If you give an action card to another player, it must go straight into their pool and cannot be used for its action.
+First, a player can put mana cards or action cards into the mana pool from their hand. If you put an action card into your pool, it becomes a mana card for the rest of the game. If you give an action card to another player, it must go straight into their mana pool and cannot be used for its action.
 
-Players can also use a combination of color and attack cards to take mana from each other. 
+Players may also use a combination of color, enhancement, and attack cards to take mana from other players. But remember other players can always set up defenses and losing an attack will cost the attacker.
 
 #### Explaining Attacks on Mana
 
-Players can attack other players for mana from their pool, colors cards, or a combination of both. The defending player chooses how they want to dispense their cards – not the attacker! A player can NEVER dispense cards from their hand, only from the cards already in play.
+Players can attack other players for mana from their pool, colors cards, or a combination of both. The defending player chooses how they want to dispense their cards – not the attacker. A player can never give up cards from their hand, only from the cards already in play.
 
-Change is not given! For example, if a player attacks for ◇2 and then the defender only has ◇3 in their pool, they don’t get change back. If a player must give a color card, that card can only go into the attacking player’s color collection. If a player has no cards in play then the player does not dispense any cards to the attacker. 
+Mana cannot be broken. For example, if a player attacks for ◇2 and then the defender only has ◇3 in their pool, they don’t get ◇1 back. If a player has no mana or chooses to give up a color card, that card can only go into the attacking player’s color collection. If a player has no useable cards on the table then the player does not dispense any cards to the attacker. 
 
-Cards NEVER go back into a player’s hand, unless using the Resurrection spell card.
+Cards do not go back into a player’s hand from the mana pool. (That is unless they use the resurrection spell card.)
+
+#### Explaining Defense of Mana
+
+There is one defense card for every color set.
 
 #### Using Action Cards
 
 Action cards allow players to do things like attack other players, steal cards, and use spells. Follow the rules and instructions for each action card printed on the card.
 
 Action cards can also be used for mana in the mana pool. The mana value for each action card is shown in the corner.
+
+#### Learning The Spells
 
 #### Conjuring and Capturing Color Cards
 
@@ -62,3 +68,11 @@ Remember, capturing 3 different colored-sets wins the game. Each color card will
 Each color card has an activation cost requiring the player to spend mana to capture the card. 
 
 A player can only organize their color collection on their turn. If the player realizes they've won during another player's turn, they must wait until it’s their turn to win. Players may collect as many colors as they want, but they must have 3 full sets (of different colors) to win the game.
+
+#### Understanding Cataclysms
+
+#### About Deck Cards
+
+#### Using Counter Actions
+
+#### Enhancing Color Sets

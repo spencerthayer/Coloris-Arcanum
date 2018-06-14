@@ -1,93 +1,94 @@
 %,Name,Category,Type,Quantity,Mana,Cost,Power,2,3,4,Rules
-1.10%,,,,167,363,,273,,,,
-0.60%,Red,Action,Attack,1,1,,2,4,7,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Orange,Action,Attack,1,1,,1,3,4,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Yellow,Action,Attack,1,1,,2,3,4,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Green,Action,Attack,1,1,,1,2,3,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Cyan,Action,Attack,1,1,,2,3,6,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Blue,Action,Attack,1,1,,4,5,6,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Purple,Action,Attack,1,1,,2,4,6,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Magenta,Action,Attack,1,1,,2,3,5,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,White,Action,Attack,1,1,,3,8,,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Grey,Action,Attack,1,1,,1,2,,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Black,Action,Attack,1,1,,1,2,3,4,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Red/Orange,Action,Attack,1,1,,1,3,6,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Orange/Yellow,Action,Attack,1,1,,0,2,3,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Yellow/Green,Action,Attack,1,1,,1,2,3,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Green/Cyan,Action,Attack,1,1,,0,1,2,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Cyan/Blue),Action,Attack,1,1,,1,2,5,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Blue/Purple,Action,Attack,1,1,,3,4,5,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Purple/Magenta,Action,Attack,1,1,,1,3,5,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Magenta/Red,Action,Attack,1,1,,1,2,4,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,White/Grey,Action,Attack,1,1,,2,7,,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Grey/Black,Action,Attack,1,1,,0,1,,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Black/White,Action,Attack,1,1,,0,1,2,3,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Wild,Action,Attack,1,1,,1,3,6,,Take ◇ from one target player based on the power rating of the attack.
-0.60%,Epedemic,Action,Cataclysm,1,,8,,,,,"All players discard half of their cards, round down."
-0.60%,Eternal Recurrence,Action,Cataclysm,1,,6,,,,,All card exchanges between players in the previous round are undone.
-0.60%,Turning Tide,Action,Cataclysm,1,,4,,,,,Play order reverses.
-0.60%,Vanquish,Action,Counter,1,5,,,,,,Player is protected from a single cataclysm.
-2.40%,Negate,Action,Counter,4,3,,,,,,Cancels one action.
-1.80%,Burden,Action,Counter,3,3,,,,,,"Reduces the effectiveness of an attack by half, round up."
-1.80%,Constrain,Action,Counter,3,2,,,,,,"Reduces the effectiveness of a defense by half, round up."
-5.99%,Fortune,Deck,,10,1,,,,,,Collect two cards.
-1.80%,Conviction,Deck,,3,3,,,,,,Discard all cards and collect seven cards.
-0.60%,Faith,Deck,,1,5,,,,,,Discard all cards and collect nine cards.
-0.60%,Red,Action,Defense,1,2,,1,2,3,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Orange,Action,Defense,1,2,,1,3,6,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Yellow,Action,Defense,1,2,,0,2,3,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Green,Action,Defense,1,2,,1,2,3,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Cyan,Action,Defense,1,2,,0,1,2,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Blue,Action,Defense,1,2,,1,2,5,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Purple,Action,Defense,1,2,,3,4,5,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Magenta,Action,Defense,1,2,,1,3,5,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,White,Action,Defense,1,2,,2,7,,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Grey,Action,Defense,1,2,,1,2,4,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Black,Action,Defense,1,2,,0,1,,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Wild,Action,Defense,1,2,,0,1,2,,Take ◇ from the power of an attack based on the power rating of the defense.
-0.60%,Thaumaturgy,Action,Spell,1,5,,,,,,"Returns one taken color, can break a set. "
-1.20%,Compulsion,Action,Spell,2,4,,,,,,Take one complete color set from another player.
-1.20%,Shatter,Action,Spell,2,3,,,,,,"Break one color synthesis, victim keeps cards."
-1.20%,Alchemy,Action,Spell,2,3,,,,,,Swap one color card with another player.
-1.20%,Prestidigitation,Action,Spell,2,3,,,,,,Take one color card from another player.
-1.80%,Allurement,Action,Spell,3,2,,,,,,Take ◇5 from another player.
-1.80%,Tribute,Action,Spell,3,2,,,,,,All players surrender ◇2 to player.
-2.40%,Arcane Augmentation,Action,Spell,4,1,,,,,,Doubles the power of an attack or defense.
-0.60%,Soothsayer,Action,Spell,1,5,,,,,,"Name a card, if any player has that card in hand they must reveal they are holding it."
-2.40%,Evocation,Action,Spell,4,1,,,,,,Lower costs by ◇2.
-1.20%,Influence,Action,Spell,2,4,,,,,,Force a player to skip their next card draw.
-1.20%,Diamond,Color,Enhancement,2,3,,,,,,Add ◇4 to any completed color set.
-1.80%,Gem,Color,Enhancement,3,2,,,,,,Add ◇2 to any color collection of two or more cards.
-2.40%,Crystal,Color,Enhancement,4,1,,,,,,Add ◇1 to any color.
-0.60%,Black Diamond,Color,Enhancement,1,4,,,,,,Add ◇8 to a completed black set with a diamond.
-0.60%,RGB,Color,Synthesis,1,4,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
-0.60%,RGB,Color,Synthesis,1,3,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
-0.60%,RGB,Color,Synthesis,1,2,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
-0.60%,RGB,Color,Synthesis,1,1,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
-0.60%,RYB,Color,Synthesis,1,4,,,,,,"Can create an Orange, Green, Purple, or Grey card."
-0.60%,RYB,Color,Synthesis,1,3,,,,,,"Can create an Orange, Green, Purple, or Grey card."
-0.60%,RYB,Color,Synthesis,1,2,,,,,,"Can create an Orange, Green, Purple, or Grey card."
-0.60%,RYB,Color,Synthesis,1,1,,,,,,"Can create an Orange, Green, Purple, or Grey card."
-0.60%,CMYK,Color,Synthesis,1,4,,,,,,"Can create a Red, Green, Blue, or Black card."
-0.60%,CMYK,Color,Synthesis,1,3,,,,,,"Can create a Red, Green, Blue, or Black card."
-0.60%,CMYK,Color,Synthesis,1,2,,,,,,"Can create a Red, Green, Blue, or Black card."
-0.60%,CMYK,Color,Synthesis,1,1,,,,,,"Can create a Red, Green, Blue, or Black card."
-1.80%,Red,Color,,3,4,4,,,,,
-1.80%,Orange,Color,,3,2,1,,,,,
-1.80%,Yellow,Color,,3,2,2,,,,,
-1.80%,Green,Color,,3,1,3,,,,,
-1.80%,Cyan,Color,,3,3,3,,,,,
-1.80%,Blue,Color,,3,3,3,,,,,
-1.80%,Purple,Color,,3,3,3,,,,,
-1.80%,Magenta,Color,,3,2,2,,,,,
-1.20%,White,Color,,2,4,4,,,,,
-1.20%,Grey,Color,,2,2,2,,,,,
-2.40%,Black,Color,,4,1,1,,,,,
-1.20%,Wild,Color,,2,,6,,,,,
-3.59%,(1) One,Mana,,6,1,,,,,,
-2.99%,(2) Two,Mana,,5,2,,,,,,
-2.40%,(3) Three,Mana,,4,3,,,,,,
-1.80%,(4) Four,Mana,,3,4,,,,,,
-1.20%,(5) Five,Mana,,2,5,,,,,,
-0.60%,(10) Ten,Mana,,1,10,,,,,,
-,Resurrection,Action,Spell,1,10,5,,,,,Return one card from the mana pool into the players hand.
+1.19%,,,,159,347,,237,,,,
+0.63%,Black,Action,Attack,1,1,,1,2,3,4,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Blue,Action,Attack,1,1,,4,5,6,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Cyan,Action,Attack,1,1,,2,3,6,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Green,Action,Attack,1,1,,1,2,3,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Grey,Action,Attack,1,1,,1,2,,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Magenta,Action,Attack,1,1,,2,3,5,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Orange,Action,Attack,1,1,,1,3,4,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Purple,Action,Attack,1,1,,2,4,6,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Red,Action,Attack,1,1,,2,4,7,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,White,Action,Attack,1,1,,3,8,,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Wild,Action,Attack,1,1,,1,3,6,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Yellow,Action,Attack,1,1,,2,3,4,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Black/White,Action,Attack,1,1,,0,1,2,3,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Blue/Purple,Action,Attack,1,1,,3,4,5,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Cyan/Blue),Action,Attack,1,1,,1,2,5,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Green/Cyan,Action,Attack,1,1,,0,1,2,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Grey/Black,Action,Attack,1,1,,0,1,,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Magenta/Red,Action,Attack,1,1,,1,2,4,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Orange/Yellow,Action,Attack,1,1,,0,2,3,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Purple/Magenta,Action,Attack,1,1,,1,3,5,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Red/Orange,Action,Attack,1,1,,1,3,6,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,White/Grey,Action,Attack,1,1,,2,7,,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Yellow/Green,Action,Attack,1,1,,1,2,3,,Take ◇ from one target player based on the power rating of the attack.
+0.63%,Epedemic,Action,Cataclysm,1,,8,,,,,"All players discard half of their cards, round down."
+0.63%,Eternal Recurrence,Action,Cataclysm,1,,6,,,,,All card exchanges between players in the previous round are undone.
+0.63%,Turning Tide,Action,Cataclysm,1,,4,,,,,Play order reverses.
+1.26%,Arcane Aegis,Action,Counter,2,1,,,,,,Doubles the power of a defense.
+1.89%,Burden,Action,Counter,3,2,,,,,,"Reduces the effectiveness of an attack by half, round up."
+1.26%,Constrain,Action,Counter,2,2,,,,,,"Reduces the effectiveness of a defense by half, round up."
+2.52%,Negate,Action,Counter,4,3,,,,,,Cancels one action.
+0.63%,Vanquish,Action,Counter,1,5,,,,,,Player is protected from a single cataclysm.
+0.63%,Black,Action,Defense,1,2,,1,2,3,4,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Blue,Action,Defense,1,2,,4,5,6,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Cyan,Action,Defense,1,2,,2,3,6,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Green,Action,Defense,1,2,,1,2,3,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Grey,Action,Defense,1,2,,3,8,,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Magenta,Action,Defense,1,2,,2,3,5,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Orange,Action,Defense,1,2,,1,3,4,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Purple,Action,Defense,1,2,,2,4,6,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Red,Action,Defense,1,2,,2,4,7,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,White,Action,Defense,1,2,,1,2,,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Wild,Action,Defense,1,2,,1,3,6,,Take ◇ from the power of an attack based on the power rating of the defense.
+0.63%,Yellow,Action,Defense,1,2,,2,3,4,,Take ◇ from the power of an attack based on the power rating of the defense.
+1.26%,Alchemy,Action,Spell,2,3,,,,,,Swap one color card with another player.
+1.89%,Allurement,Action,Spell,3,2,,,,,,Take ◇5 from another player.
+2.52%,Arcane Augmentation,Action,Spell,4,1,,,,,,Doubles the power of an attack.
+1.26%,Infernal Ritual,Action,Spell,2,4,,,,,,Take one complete color set from another player.
+2.52%,Evocation,Action,Spell,4,1,,,,,,Lower costs by ◇2.
+1.26%,Influence,Action,Spell,2,4,,,,,,Force a player to skip their next card draw.
+1.26%,Prestidigitation,Action,Spell,2,3,,,,,,Take one color card from another player.
+0.63%,Resurrection,Action,Spell,1,8,4,,,,,Return one card from the mana pool into the players hand.
+1.26%,Shatter,Action,Spell,2,3,,,,,,"Break one color synthesis, victim keeps cards."
+0.63%,Soothsayer,Action,Spell,1,5,,,,,,"Name a card, if any player has that card in hand they must reveal they are holding it."
+0.63%,Thaumaturgy,Action,Spell,1,5,6,,,,,"Returns one taken color, can break a set. "
+1.89%,Tribute,Action,Spell,3,2,,,,,,All players surrender ◇2 to player.
+0.63%,Black Diamond,Color,Enhancement,1,4,,,,,,Add ◇8 to a completed black set with a diamond.
+2.52%,Crystal,Color,Enhancement,4,1,,,,,,Add ◇1 to any color.
+1.26%,Diamond,Color,Enhancement,2,3,,,,,,Add ◇4 to any completed color set.
+1.89%,Gem,Color,Enhancement,3,2,,,,,,Add ◇2 to any color collection of two or more.
+0.63%,CMYK,Color,Synthesis,1,4,,,,,,"Can create a Red, Green, Blue, or Black card."
+0.63%,CMYK,Color,Synthesis,1,3,,,,,,"Can create a Red, Green, Blue, or Black card."
+0.63%,CMYK,Color,Synthesis,1,2,,,,,,"Can create a Red, Green, Blue, or Black card."
+0.63%,CMYK,Color,Synthesis,1,1,,,,,,"Can create a Red, Green, Blue, or Black card."
+0.63%,RGB,Color,Synthesis,1,4,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
+0.63%,RGB,Color,Synthesis,1,3,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
+0.63%,RGB,Color,Synthesis,1,2,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
+0.63%,RGB,Color,Synthesis,1,1,,,,,,"Can create a Yellow, Cyan, Magenta, or White card."
+0.63%,RYB,Color,Synthesis,1,4,,,,,,"Can create an Orange, Green, Purple, or Grey card."
+0.63%,RYB,Color,Synthesis,1,3,,,,,,"Can create an Orange, Green, Purple, or Grey card."
+0.63%,RYB,Color,Synthesis,1,2,,,,,,"Can create an Orange, Green, Purple, or Grey card."
+0.63%,RYB,Color,Synthesis,1,1,,,,,,"Can create an Orange, Green, Purple, or Grey card."
+2.52%,Black,Color,,4,1,1,,,,,
+1.89%,Blue,Color,,3,3,3,,,,,
+1.89%,Cyan,Color,,3,3,3,,,,,
+1.89%,Green,Color,,3,1,3,,,,,
+1.26%,Grey,Color,,2,2,2,,,,,
+1.89%,Magenta,Color,,3,2,2,,,,,
+1.89%,Orange,Color,,3,2,1,,,,,
+1.89%,Purple,Color,,3,3,3,,,,,
+1.89%,Red,Color,,3,4,4,,,,,
+1.26%,White,Color,,2,4,4,,,,,
+1.26%,Wild,Color,,2,,6,,,,,
+1.89%,Yellow,Color,,3,2,2,,,,,
+1.26%,Conviction,Deck,,2,3,,,,,,Discard all cards and collect seven cards.
+0.63%,Faith,Deck,,1,5,,,,,,Discard all cards and collect nine cards.
+6.29%,Fortune,Deck,,10,1,,,,,,Collect two cards.
+3.77%,(1) One,Mana,,6,1,,,,,,
+0.63%,(10) Ten,Mana,,1,10,,,,,,
+3.14%,(2) Two,Mana,,5,2,,,,,,
+2.52%,(3) Three,Mana,,4,3,,,,,,
+1.89%,(4) Four,Mana,,3,4,,,,,,
+1.26%,(5) Five,Mana,,2,5,,,,,,
